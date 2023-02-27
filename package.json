@@ -1,8 +1,8 @@
 {
   "name": "Alphabot-Md",
   "version": "17.0.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
-  "main": "zeeone.js",
+  "description": "Alphabot Md, Only update in YouTube Habib OFC",
+  "main": "habib.js",
   "license": "MIT",
   "scripts": {
     "start": "node zeeone.js"
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "HabibOfc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
