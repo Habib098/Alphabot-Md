@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "HabibOfc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
