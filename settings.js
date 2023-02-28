@@ -49,9 +49,9 @@ global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.premium = ['6288803786974'] //premium user
+global.owner = ["6288803786974", "6288803786974"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6288803786974" // nomor wa kalian
 global.ownernomerr = "+62887435047326" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
@@ -67,7 +67,7 @@ global.typemenu2 = 'templateImage' //
 global.multiplier = 69
 global.limitawal = {
    premium: "10000",
-   free: 100
+   free: 150
 }
 global.buttonDefault = [{
    urlButton: {
